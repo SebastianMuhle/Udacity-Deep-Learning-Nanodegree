@@ -1,2 +1,3 @@
 # Udacity-Deep-Learning-Nanodegree
-Udacity Deep Learning Nanodgree
+
+This repository includes the projects from the Udacity Deep Learning Nanodegree. 
